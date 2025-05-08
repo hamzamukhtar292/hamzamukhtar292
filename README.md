@@ -7,8 +7,8 @@ As a skilled Frontend Developer at MC2, I design and develop modern, user-centri
 ---
 
 🎓 Education
-- **Master of Science in Computer Science (MS)
-- **Bachelor of Science in Computer Science (BS)
+- Master of Science in Computer Science (MS)
+- Bachelor of Science in Computer Science (BS)
 
 ---
 
