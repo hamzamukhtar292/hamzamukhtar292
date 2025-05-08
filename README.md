@@ -19,23 +19,23 @@ Bachelor of Science in Computer Science (BS)
 - **Languages**: JavaScript, TypeScript
 
 ---
-Projects
 
-Mc2 (https://www.mc2.fi/)
-Project Description:
+🚀 Projects
+
+MC2 ( www.mc2.fi )
 Developed a platform to create, track, and analyze investment strategies using external and proprietary wallets. The project aimed to empower users to make informed investment decisions through data-driven insights.
 
 
-Ops Atlas (https://www.opsatlas.io/) && (https://www.accounts-opsatlas.io/)
+Ops Atlas ( www.opsatlas.io ) && ( www.accounts-opsatlas.io )
 As a Full Stack MERN Developer on the Ops Atlas project, the primary goal is to digitalize the reuse, recycle, and refurbishing process of consumer electronics. Over 5 companies are using this software and with over 1M devices and more data in history. Maintaining device history, employee repair points management, report generation, mobile stocktaking, polishing, diagnostic, RMA, sales, warranty repair, transit etc
 
 
 
-Dolcekrystina (https://www.dolcekrystina.it/)
+Dolcekrystina (www.dolcekrystina.it)
 Created a responsive design by using Next.js for frontend and backend, built on Node.js with TypeScript. 
 
 
-Bridge 9 (https://bridge9.fi/)
+Bridge 9 (www.bridge9.fi)
 My expertise encompasses the dynamic frontend development using React.js and Tailwind CSS, ensuring an engaging and seamless user experience. On the backend, I work with Node.js, Mongodb, Express.js and TypeScript to build robust and scalable systems. 
 
 ---
