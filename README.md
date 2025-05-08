@@ -1,18 +1,13 @@
-<h1 align="center">Hi 👋, I'm Hamza Mukhtar</h1>
-<h3 align="center">A passionate Full-Stack Developer from Pakistan ❤️</h3>
-
+<h1 align="center">Hamza Mukhtar Frontend Developer at MC2</h1>
 ---
 
 ### 👨‍💻 About Me
-
-- 🔭 I’m currently working on improving my Nuxt3 development skills  
-- 🌱 Learning Web Development from **DUET**  
-- 💬 Ask me about **React.js**, **Vue.js**, **Node.js**, **MongoDB**, and **TypeScript**  
-- 📫 How to reach me: **WhatsApp: 03455334292**  
-- 👀 Interested in **Programming**, **Problem Solving**, and **Building Products**  
+I'm a Frontend Developer at MC2, where I build modern, user-focused interfaces with a strong emphasis on performance and usability.
 
 ---
-
+Education 🎓
+Master’s in Computer Science (MS) 🧑‍🎓
+Bachelor’s in Computer Science (BS) 🧑‍🎓
 ### 🛠 Tech Stack
 
 - **Frontend**: React.js, Vue.js, Next.js, HTML, CSS, Tailwind, Bootstrap  
