@@ -26,16 +26,16 @@ Bachelor of Science in Computer Science (BS)
 Developed a platform to create, track, and analyze investment strategies using external and proprietary wallets. The project aimed to empower users to make informed investment decisions through data-driven insights.
 
 
-Ops Atlas ( www.opsatlas.io ) && ( www.accounts-opsatlas.io )
+<img src="https://github.com/hamzamukhtar292/hamzamukhtar292/blob/main/opsAtlas.png" width="120" alt="Ops Atlas" /> Ops Atlas ( www.opsatlas.io ) && ( www.accounts-opsatlas.io )
 As a Full Stack MERN Developer on the Ops Atlas project, the primary goal is to digitalize the reuse, recycle, and refurbishing process of consumer electronics. Over 5 companies are using this software and with over 1M devices and more data in history. Maintaining device history, employee repair points management, report generation, mobile stocktaking, polishing, diagnostic, RMA, sales, warranty repair, transit etc
 
 
 
-Dolcekrystina (www.dolcekrystina.it)
+<img src="https://github.com/hamzamukhtar292/hamzamukhtar292/blob/main/dol.webp" width="120" alt="Dolce Krystina" /> Dolcekrystina (www.dolcekrystina.it)
 Created a responsive design by using Next.js for frontend and backend, built on Node.js with TypeScript. 
 
 
-Bridge 9 (www.bridge9.fi)
+<img src="https://github.com/hamzamukhtar292/hamzamukhtar292/blob/main/bridge99.png" width="120" alt="Bridge99" /> Bridge 9 (www.bridge9.fi)
 My expertise encompasses the dynamic frontend development using React.js and Tailwind CSS, ensuring an engaging and seamless user experience. On the backend, I work with Node.js, Mongodb, Express.js and TypeScript to build robust and scalable systems. 
 
 ---
