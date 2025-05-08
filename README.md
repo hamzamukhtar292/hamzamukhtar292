@@ -1,20 +1,42 @@
 <h1 align="center">Hamza Mukhtar Frontend Developer at MC2</h1>
+----
+
+👨‍💻 About Me
+As a skilled Frontend Developer at MC2, I design and develop modern, user-centric interfaces with a strong focus on performance, usability, and seamless user experiences. I'm passionate about staying up-to-date with the latest trends and technologies in frontend development.
+
 ---
 
-### 👨‍💻 About Me
-I'm a Frontend Developer at MC2, where I build modern, user-focused interfaces with a strong emphasis on performance and usability.
+🎓 Education
+Master of Science in Computer Science (MS)
+Bachelor of Science in Computer Science (BS)
 
 ---
-Education 🎓
-Master’s in Computer Science (MS) 🧑‍🎓
-Bachelor’s in Computer Science (BS) 🧑‍🎓
-### 🛠 Tech Stack
 
 - **Frontend**: React.js, Vue.js, Next.js, HTML, CSS, Tailwind, Bootstrap  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB, Firebase  
 - **Tools**: Git, GitHub, Postman, VS Code  
 - **Languages**: JavaScript, TypeScript
+
+---
+Projects
+
+Mc2 (https://www.mc2.fi/)
+Project Description:
+Developed a platform to create, track, and analyze investment strategies using external and proprietary wallets. The project aimed to empower users to make informed investment decisions through data-driven insights.
+
+
+Ops Atlas (https://www.opsatlas.io/) && (https://www.accounts-opsatlas.io/)
+As a Full Stack MERN Developer on the Ops Atlas project, the primary goal is to digitalize the reuse, recycle, and refurbishing process of consumer electronics. Over 5 companies are using this software and with over 1M devices and more data in history. Maintaining device history, employee repair points management, report generation, mobile stocktaking, polishing, diagnostic, RMA, sales, warranty repair, transit etc
+
+
+
+Dolcekrystina (https://www.dolcekrystina.it/)
+Created a responsive design by using Next.js for frontend and backend, built on Node.js with TypeScript. 
+
+
+Bridge 9 (https://bridge9.fi/)
+My expertise encompasses the dynamic frontend development using React.js and Tailwind CSS, ensuring an engaging and seamless user experience. On the backend, I work with Node.js, Mongodb, Express.js and TypeScript to build robust and scalable systems. 
 
 ---
 
