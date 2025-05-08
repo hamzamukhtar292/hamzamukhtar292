@@ -22,7 +22,7 @@ Bachelor of Science in Computer Science (BS)
 
 🚀 Projects
 
-MC2 ( www.mc2.fi )
+<img src="https://github.com/hamzamukhtar292/hamzamukhtar292/blob/main/mc2.svg" width="120" alt="MC2" /> MC2 ( www.mc2.fi )
 Developed a platform to create, track, and analyze investment strategies using external and proprietary wallets. The project aimed to empower users to make informed investment decisions through data-driven insights.
 
 
